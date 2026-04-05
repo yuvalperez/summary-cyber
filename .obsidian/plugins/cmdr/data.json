@@ -4,10 +4,25 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:backup-and-close",
+      "icon": "lucide-cloud-check",
+      "name": "Git: Commit-and-sync and then close Obsidian",
+      "mode": "any",
+      "color": "#f00000"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:backup-and-close",
+      "icon": "lucide-cloud-alert",
+      "name": "Git: Commit-and-sync and then close Obsidian",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
