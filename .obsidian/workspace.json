@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portswigger/SQL injection/UNION attacks.md",
+                "file": "portswigger/Web cache deception/Delimiter discrepancies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNION attacks"
+              "title": "Delimiter discrepancies"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "b2d2f725941b0d14",
@@ -187,10 +187,19 @@
   },
   "active": "8fd4cdf7accdf92c",
   "lastOpenFiles": [
-    "portswigger/SQL injection/SQL injection cheat sheet.md",
-    "portswigger/SQL injection/lab SQL/Lab SQL injection UNION attack, determining the number of columns returned by the query.md",
-    "portswigger/SQL injection/UNION attacks.md",
+    "portswigger/Web cache deception/Path mapping discrepancies.md",
+    "portswigger/Web cache deception/Web cache deception.md",
+    "portswigger/Web cache deception/Web cache deception lab delimiter list.md",
+    "portswigger/Web cache deception/Delimiter discrepancies.md",
+    "portswigger/Server-side vulnerabilities/Server-side vulnerabilities.md",
+    "portswigger/portswigger.md",
+    "portswigger/Server-side vulnerabilities/labs/Lab Remote code execution via web shell upload.md",
+    "portswigger/Server-side vulnerabilities/labs/Lab File path traversal, simple case.md",
+    "portswigger/Server-side vulnerabilities/file upload vulnerabilities.md",
     "portswigger/SQL injection/SQL injections.md",
+    "portswigger/SQL injection/UNION attacks.md",
+    "portswigger/SQL injection/lab SQL/Lab SQL injection UNION attack, determining the number of columns returned by the query.md",
+    "portswigger/SQL injection/SQL injection cheat sheet.md",
     "portswigger/SQL injection/lab SQL",
     "portswigger/SQL injection/Untitled.base",
     "portswigger/SQL injection",
@@ -198,26 +207,17 @@
     "portswigger/Web cache deception/Web caches.md",
     "portswigger/Server-side vulnerabilities/SSRF (Server-side request forgery).md",
     "portswigger/Web cache deception/lab Web cache deception/Lab Exploiting path mapping for web cache deception.md",
-    "portswigger/Server-side vulnerabilities/file upload vulnerabilities.md",
-    "portswigger/Server-side vulnerabilities/Server-side vulnerabilities.md",
     "portswigger/Server-side vulnerabilities/path traversal.md",
-    "portswigger/portswigger.md",
     "portswigger/Server-side vulnerabilities/access control.md",
     "portswigger/Server-side vulnerabilities/labs/Lab User role controlled by request parameter.md",
     "portswigger/Server-side vulnerabilities/OS command injection.md",
     "portswigger/Server-side vulnerabilities/Authentication vulnerabilities.md",
     "portswigger/Server-side vulnerabilities/labs/Lab Username enumeration via different responses.md",
-    "portswigger/Server-side vulnerabilities/labs/Lab File path traversal, simple case.md",
-    "portswigger/Web cache deception/Delimiter discrepancies.md",
-    "portswigger/Web cache deception/Path mapping discrepancies.md",
-    "portswigger/Web cache deception/Web cache deception.md",
     "portswigger/Web cache deception/lab Web cache deception",
     "Welcome.md",
     "portswigger/Web cache deception",
     "portswigger/Server-side vulnerabilities/labs/Lab User role controlled by request parameter 1.md",
     "portswigger/Server-side vulnerabilities/labs/Lab Basic SSRF against another back-end system 1.md",
-    "portswigger/Server-side vulnerabilities/labs/Lab Basic SSRF against another back-end system.md",
-    "portswigger/Server-side vulnerabilities/labs/Lab Remote code execution via web shell upload 1.md",
     "portswigger/Server-side vulnerabilities/labs 1",
     "Pasted image 20260403154316.png",
     "Pasted image 20260403153827.png",
